@@ -153,5 +153,3 @@ AAAAABBBBBCCCCCCCCDDDDDDDDDD
 ## Author
 
 **Yashshree Shah**
-
-Computer Engineering Graduate (2024)
