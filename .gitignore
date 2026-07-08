@@ -1,0 +1,14 @@
+# Executable
+Compressor.exe
+
+# Object files
+*.o
+
+# Temporary files
+*.tmp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
